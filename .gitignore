@@ -320,3 +320,4 @@ FakesAssemblies/
 
 # Logs
 log*.txt
+.vs/
