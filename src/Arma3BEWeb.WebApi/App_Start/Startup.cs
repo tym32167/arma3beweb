@@ -2,7 +2,7 @@
 using System.Web.Http.Dispatcher;
 using Owin;
 
-namespace Arma3BEWeb.Console
+namespace Arma3BEWeb.WebApi
 {
     public class Startup
     {

@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Web.Http.Dispatcher;
 using Arma3BEWeb.WebApi.Controllers;
 
-namespace Arma3BEWeb.Console
+namespace Arma3BEWeb.WebApi
 {
     public class CustomAssemblyResolver : DefaultAssembliesResolver
     {
